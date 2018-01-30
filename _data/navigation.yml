@@ -6,11 +6,11 @@
 - title: About
   url: /about/
 
-- title: CV
-  url: /articles/
-
 - title: Blog
   url: /blog/
+
+- title: CV
+  url: /articles/
 
 - title: Research
   url: /theme-setup/
