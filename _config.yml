@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Patti Kibenge
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: My little corner of the interwebs.
+logo: logo.png
 search: true
-url: http://localhost:4000
+url: https://pkibenge.github.io
 
 # Jekyll configuration
 
@@ -36,16 +36,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Patti Kibenge
+  avatar: profile.jpg
+  email: pkibenge@upei.ca
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  twitter: codeforyourlife
+  facebook: patti.kibenge
+  github: pkibenge
+  stackexchange: https://stackoverflow.com/users/8445441/pattik
+  linkedin: pkibenge
+  instagram: codeforyourlife
   flickr: #username
   tumblr: #username
   pinterest: #username
