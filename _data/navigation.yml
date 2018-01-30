@@ -10,13 +10,13 @@
   url: /blog/
 
 - title: CV
-  url: /articles/
-
-- title: Research
-  url: /theme-setup/
+  url: /cv/
   
-- title: Publications
+- title: Research/Publications
   url: /publications/
+
+- title: Outreach
+  url: /outreach/
 
 - title: Search
   url: /search/
