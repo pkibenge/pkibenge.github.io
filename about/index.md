@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About | Coming Soon
+title: Coming Soon
 excerpt: "About"
 modified: 2018-01-30T21:49:00.564948+01:00
 ---

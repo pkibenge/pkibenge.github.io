@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach | Coming Soon
+title: Coming Soon
 excerpt: "Outreach" 
 modified: 2018-01-30T21:58:37+04:00
 ---

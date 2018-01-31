@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog | Coming Soon
+title: Coming Soon
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---

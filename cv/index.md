@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV | Coming Soon
+title: Coming Soon
 excerpt: "My activities to date."
 search_omit: true
 ---
