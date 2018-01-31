@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About | Coming Soon
 excerpt: "About"
 modified: 2018-01-30T21:49:00.564948+01:00
 ---
 
+{% comment %}
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
 ## So Simple Theme is all about:
@@ -20,3 +21,4 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
+{% endcomment %}

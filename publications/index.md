@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Outreach | Coming Soon
-excerpt: "Outreach" 
+title: Research & Publications | Coming Soon
+excerpt: "Research and Publications" 
 modified: 2018-01-30T21:58:37+04:00
 ---
 
