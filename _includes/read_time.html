@@ -1,0 +1,17 @@
+{%- assign words_per_minute = site.words_per_minute | default: 200 -%}
+{%- assign min_read = site.data.text[site.locale].min_read | default: 'min read' -%}
+
+{% if entry %}
+  {% assign words = entry.content | strip_html | number_of_words %}
+{% else %}
+  {% assign words = page.content | strip_html | number_of_words %}
+{% endif %}
+
+<span class="reading-time" title="Estimated read time">
+  {% assign words = content | number_of_words %}
+  {% if words < 270 %}
+    1 minute read
+  {% else %}
+    {{ words | divided_by:135 }} minute read
+  {% endif %}
+</span>
