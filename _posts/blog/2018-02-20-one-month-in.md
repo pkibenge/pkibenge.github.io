@@ -88,7 +88,7 @@ One of the major reasons I wanted to do this internship (besides the amazing tra
   <figcaption>E-bikes and E-cars</figcaption>
 </figure>
 
-So that's it for me for now. Thanks for taking the time to read my first post. I will do my best to update this blog once every week or so depending on what exciting things I get up to, when I feel compelled to share more highlights from the past month or write down my thoughts all manner of tech related topics!
+So that's it for me for now. Thanks for taking the time to read my first post. I will do my best to update this blog once every week or so depending on what exciting things I get up to, when I feel compelled to share more highlights from the past month or write down my thoughts on all manner of tech related topics!
 
 Cheers,
 
