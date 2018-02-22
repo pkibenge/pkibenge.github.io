@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why diversity in tech matters
-excerpt: "How I got here and, what I do and why I do it..."
+excerpt: "How I got here, what I do and why I do it..."
 modified: 2018-02-22T20:36:25+01:00
 categories: blog
 tags: [Diversity, Tech, Minority, Representation]
