@@ -31,4 +31,8 @@ I am extremely fortunate to be in an institution that is receptive to ideas from
 
 ---
 
-Now that I have arrived in this field I can't thank the online community of women and women of colour in tech that I have found through Instagram, Twitter and Facebook enough. There is something powerful about being seen, heard, supported and celebrated by individuals who have similar experiences as you. My only wish is that I found them sooner but hopefully as this diversity in tech movement grows no member of an underrepresented community in tech will think a career in this field is not for them.
+Now that I have arrived in this field I can't thank the online community of women and women of colour in tech that I have found through Instagram, Twitter and Facebook enough. There is something powerful about being seen, heard, supported and celebrated by individuals who have similar experiences as you do. My only regret is that did not find them sooner but hopefully as this diversity in tech movement grows no member of an underrepresented community will think a career in this field is not for them.
+
+Best,
+
+<strong>Patti</strong>
