@@ -32,7 +32,7 @@ The area we live in reminds me a lot of [Victoria Row][victoria] in Charlottetow
 <figure class ="half">
   <img src="/images/posts/20.02.18/market.jpg" alt="image">
   <img src="/images/posts/20.02.18/market2.jpg" alt="image">
-  <figcaption>Tuesday/Saturday Farmer's Market</figcaption>
+  <figcaption>Tuesday/Saturday Farmers' Market</figcaption>
 </figure>
 
 <figure class ="half">
@@ -88,7 +88,7 @@ One of the major reasons I wanted to do this work term was to experience the dif
   <figcaption>E-bikes and E-cars</figcaption>
 </figure>
 
-So that's it for me for now. Thanks for taking the time to read my first post. I will do my best to update this blog once every week or so depending on what exciting things I get up to, when I feel compelled to share more highlights from the past month or write down my thoughts all manner of tech related topics!
+So that's it for me for now. Thanks for taking the time to read my first post. I will do my best to update this blog once every week or so depending on what exciting things I get up to, when I feel compelled to share more highlights from the past month or write down my thoughts on all manner of tech related topics!
 
 Cheers,
 
