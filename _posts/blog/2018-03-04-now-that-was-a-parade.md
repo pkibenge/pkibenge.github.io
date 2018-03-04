@@ -67,9 +67,9 @@ In Rottenburg a woman rules during the great [Fasnet] days: Countess Mechthild z
 
 In the 16th century the witches met up at the closest Heuberg and danced the whole night. The witch is a Fasnet character as old as the historic Ahland.
 
-<video controls="true">
-  <source src="/images/posts/04.03.18/stadthexen.mp4" type="video/mp4" />
-</video>
+<figure>
+  <iframe src="/images/posts/04.03.18/stadthexen.mp4" autoplay="false"></iframe>
+</figure>
 
 #Die Laufnarren
 
@@ -85,7 +85,7 @@ With natural trumpet sounds, lansquenet drums and dressed in historic lansquenet
 
 <figure class ="half">
   <img src="/images/posts/04.03.18/fanfarenzung.jpg" alt="image">
-  <video controls="true"><source width="329" height="455" src="/images/posts/04.03.18/fanfarenzung.mp4" type="video/mp4"/></video>
+  <iframe width="329" height="455" src="/images/posts/04.03.18/fanfarenzung.mp4" autoplay="false"></iframe>
 </figure>
 
 ---
