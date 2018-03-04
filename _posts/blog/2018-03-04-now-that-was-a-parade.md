@@ -9,8 +9,9 @@ comments: true
 share: true
 ---
 
-> <strong>It's different cultures that make the world go 'round at the end of the day.</strong>
-> -- Samantha Fox 
+> <strong>It's different cultures that make the world go 'round at the end of the day.</strong> 
+>
+>-- Samantha Fox 
 
 #### Quick (Wikipedia) Facts: Fasnet (Carnival)
 * Swabain-Alemannic tradition to celebrate the eve of lent
@@ -18,17 +19,17 @@ share: true
 * Celebrated in Swabia (Southwestern Germany), Switzerland, Alsace and Vorarlberg (Western Austria)
 * It starts the Thursday before Ash Wednesday and continue until Fat Tuesday
 
-Outside of Mardi Gras in New Orleans and Carnival in Rio de Janiero I think after witnessing Rottenburg's Fasnet celebrations I'm good for parades. It had it all: elaborate costumes, amazing music, free candy and some really great food trucks. You couldn't ask for more...
+Outside of Mardi Gras in New Orleans and Carnival in Rio de Janiero, I think after witnessing Rottenburg's Fasnet celebrations I'm good for parades. It had it all: elaborate costumes, amazing music, free candy and some really great food trucks. You couldn't ask for more...
 
-A couple weekends ago my housemates, a German student who had done an exchange at our home university last semester and I spent two days in Rottenburg to celebrate Fasnet. Rottenburg itself reminded me quite a bit of Reutlingen only on a larger scale. To get to the marketplace you had to cross a lovely bridge (which was kinda of line entering into a mystical world) over the Neckar River which passes through the town before eventually joining the Rhine River before eventually emptying into the North Sea.  
+A couple weekends ago my housemates, a German student who had done an exchange at our home university last semester and I spent two days in Rottenburg to celebrate Fasnet. Rottenburg itself reminded me quite a bit of Reutlingen only on a larger scale. To get to the marketplace you had to cross a lovely bridge (which was kinda of like crossing the threshold to a mystical world) over the Neckar River which passes through the town before eventually joining the Rhine River and emptying into the North Sea.  
 
 <figure class ="half">
   <img src="/images/posts/04.03.18/neckar.jpg" alt="image">
   <img src="/images/posts/04.03.18/fountain.jpg" alt="image">
-  <figcaption>The Neckar River and the Gothic Knight Fountain</figcaption>
+  <figcaption>The Neckar River and the marketplace's gothic knight fountain</figcaption>
 </figure>
 
-EVERYONE WAS IN COSTUME. Not just the people participating in the parade but the spectators as well, young and old alike. Often times when taking transit we aren't 100% sure we're heading in the right place but there was no mistaking the train to Rottenburg this weekend. Every group had their own uniform and the theme was anything goes... Literally *anything went* (don't worry pictures to follow).
+EVERYONE WAS IN COSTUME. Not just the people participating in the parade but the spectators as well, young and old alike. Often times when taking transit we aren't 100% sure we're heading in the right direction but there was no mistaking the train to Rottenburg this weekend. Every group had their own "uniform" and the theme was anything goes... Literally *anything went*.
 
 <figure class ="half">
   <img src="/images/posts/04.03.18/birdhats.jpg" alt="image">
@@ -41,7 +42,7 @@ EVERYONE WAS IN COSTUME. Not just the people participating in the parade but the
   <figcaption>We had to get our picture taken with a lamb, a zebra, a nobleman and a wanderer...</figcaption>
 </figure>
 
-The major parade happens on Sunday and its main staples include the Ahland, the Pimpele, the witches from the cities and the Laufnarren (laufen = run, Narren = jester) and the Fanfarenzung. Here are their descriptions from the Rottenburg Fasnet information pamplet as translated by my wonderful German friend:
+The major parade happens on the last Sunday of the festival and its main staples include the Ahland, the Pompele, the witches from the cities, the Laufnarren (laufen = run, Narren = jester) and the Fanfarenzung. Here are their descriptions from the Rottenburg Fasnet information pamplet as translated by my wonderful German friend Minh:
 
 ##### Der Ahland
 
@@ -68,7 +69,7 @@ In Rottenburg a woman rules during the great [Fasnet] days: Countess Mechthild z
 In the 16th century the witches met up at the closest Heuberg and danced the whole night. The witch is a Fasnet character as old as the historic Ahland.
 
 <figure>
-  <iframe  src="/images/posts/04.03.18/stadthexen.mp4" width="329" height="455" autoplay="0"></iframe>
+  <iframe  src="/images/posts/04.03.18/stadthexen.mp4" width="329" height="455" autoplay="false"></iframe>
 </figure>
 
 ##### Die Laufnarren
@@ -85,7 +86,7 @@ With natural trumpet sounds, lansquenet drums and dressed in historic lansquenet
 
 <figure class ="half">
   <img src="/images/posts/04.03.18/fanfarenzung.jpg" alt="image">
-  <iframe src="/images/posts/04.03.18/fanfarenzung.mp4" width="329" height="455" autoplay="0"></iframe>
+  <iframe src="/images/posts/04.03.18/fanfarenzung.mp4" width="329" height="455" autoplay="false"></iframe>
 </figure>
 
 ---
@@ -121,7 +122,7 @@ With natural trumpet sounds, lansquenet drums and dressed in historic lansquenet
 
 ---
 
-If you're ever in southern Germany in early February I would highly suggest you attend. If not only to witness children being thrown in wheelbarrows and covered in hay!
+If you're ever in southwestern Germany in early February I would highly suggest you attend this festival. If not only to bare witness to a long standing tradition but also to delight in children being thrown in wheelbarrows and covered in hay!
 
 Cheers,
 
