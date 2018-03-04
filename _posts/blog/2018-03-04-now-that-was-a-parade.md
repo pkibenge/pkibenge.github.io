@@ -68,10 +68,10 @@ In Rottenburg a woman rules during the great [Fasnet] days: Countess Mechthild z
 In the 16th century the witches met up at the closest Heuberg and danced the whole night. The witch is a Fasnet character as old as the historic Ahland.
 
 <figure>
-  <iframe width="329" height="455" src="/images/posts/04.03.18/stadthexen.mp4" type="video/mp4" autoplay="false"></iframe>
+  <iframe  src="/images/posts/04.03.18/stadthexen.mp4" width="329" height="455" autoplay="0"></iframe>
 </figure>
 
-#Die Laufnarren
+##### Die Laufnarren
 
 They are neither white fool, nor circus-jester. The Laufnarren of the Fasnet guild successfully impersonalte the Countess Mechthild zu Hohenberg's frivolous fireplace operator named Halberdrein. This court jester did not only entertain in the castle, but also for town's residents at the marketplace.
 
@@ -85,7 +85,7 @@ With natural trumpet sounds, lansquenet drums and dressed in historic lansquenet
 
 <figure class ="half">
   <img src="/images/posts/04.03.18/fanfarenzung.jpg" alt="image">
-  <iframe width="329" height="455" src="/images/posts/04.03.18/fanfarenzung.mp4"type="video/mp4" autoplay="false"></iframe>
+  <iframe src="/images/posts/04.03.18/fanfarenzung.mp4" width="329" height="455" autoplay="0"></iframe>
 </figure>
 
 ---
