@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-> <strong>"Be the person you needed when you were younger"</strong> -- Ayesha Siddiqi
+> <strong>Be the person you needed when you were younger.</strong> -- Ayesha Siddiqi
 
 About a month ago as part of an application package for a student leadership award I had to explain anomalies in my academic history. In other words, why would someone withdraw from an undergraduate medical program and pursue a career in tech. For anyone who is curious why diversity in tech is important or why I try to be as visible in this field within my community as possible here is an edited excerpt from that package.
 

@@ -1,24 +1,19 @@
 ---
-layout: page
-title: Coming Soon
+layout: page2
+title: About Me
 excerpt: "About"
 modified: 2018-01-30T21:49:00.564948+01:00
 ---
 
-{% comment %}
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+><strong>Once something is a passion the motivation is there.</strong> -- Michael Shumacher
 
-## So Simple Theme is all about:
+I love learning. I love teaching. I love tech.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+From a young age I would spend countless hours in front of a computer screen writing simple programs and creating rudimentary websites. I was always fascinated with ability to make a computer do something with a few lines of code. As I got older the lack of mentors, role models and representation within the field of technology led me to focus elsewhere but luckily I found my way back and am happier than ever (you can read more about my coming to tech journey [here][link]).
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+I am passionate about technology and the positive impact it can have on our individual lives and on society as a whole. I love teaching and sharing my computer science knowledge and skills with anyone interested in learning especially youth and underrepresented communities in tech. I am currently completing my final year of studies at the [University of Prince Edward Island][upei] in Charlottetown, PE, Canada and will be graduating May 2019 with a BSc. Honours in Computer Science with a Minor in Mathematics and Co-operative Education Distinction.
 
-[^1]: Example: *domain.com/category-name/post-title*
-{% endcomment %}
+Here you will be able to keep up with my current thoughts and projects. I'm alway interested for connecting and collaborating so please feel free to reach out and thanks for stopping by!
+
+[link]: https://pkibenge.github.io/blog/why-diversity-in-tech-matters/
+[upei]: http://upei.ca

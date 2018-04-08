@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-> <strong>"Life begins at the end of your comfort zone"</strong> -- Neale Donald Walsch
+> <strong>Life begins at the end of your comfort zone.</strong> -- Neale Donald Walsch
 
 It's hard to believe it's been an entire month since I left Prince Edward Island, Canada for Reutlingen, Germany and yet here I am at the beginning of my third full week as an intern at Bosch Sensortec. My classmate, roommate and workmate, [Jeremy][jthompson] has done a great job in his weekly recaps of our adventures so far so I'll refer you to them until I get myself into a rhythm with these entries. For the most part everything in his posts (except for the running and rock climbing) goes for me as well. For this post I'll highlight the two places I've been spending most of my time since arriving in Germany: Reutlingen and Bosch Sensortec.
 
