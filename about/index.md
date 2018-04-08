@@ -13,7 +13,7 @@ From a young age I would spend countless hours in front of a computer screen wri
 
 I am passionate about technology and the positive impact it can have on our individual lives and on society as a whole. I love teaching and sharing my computer science knowledge and skills with anyone interested in learning especially youth and underrepresented communities in tech. I am currently completing my final year of studies at the [University of Prince Edward Island][upei] in Charlottetown, PE, Canada and will be graduating May 2019 with a BSc. Honours in Computer Science with a Minor in Mathematics and Co-operative Education Distinction.
 
-Here you will be able to keep up with my current thoughts and projects. I'm alway interested for connecting and collaborating so please feel free to reach out and thanks for stopping by!
+Here you will be able to keep up with my current thoughts and projects. I'm alway interested in connecting and collaborating with like minded folks so please feel free to reach out and thanks for stopping by!
 
 [link]: https://pkibenge.github.io/blog/why-diversity-in-tech-matters/
 [upei]: http://upei.ca
