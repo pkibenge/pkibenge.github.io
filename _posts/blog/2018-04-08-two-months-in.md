@@ -11,7 +11,7 @@ share: true
 
 > <strong>No one can give you better advice than yourself.</strong> -- Marcus Tullius Cicero
 
-With April upon us I’m just past the ⅓ mark of this international work term. It got off to a slow start but once I got my feet under me time has been flying! I figured at this point it might be nice to share some things that I’ve learned in the hopes that others starting new work terms, internships, full time positions or really anyone starting anything new may benefit from it so here goes!
+With April upon us I’m just past the ⅓ mark of this international work term. It got off to a slow start but once I got my feet under me time has been flying! I figured at this point it might be nice to share some things that I’ve learned in the hopes that others starting new work terms, internships, full time positions or really anyone starting anything new may benefit so here goes!
 
 ---
 
@@ -22,7 +22,7 @@ Make sure to get in the habit of writing things down especially when you first s
 <strong>Tech talk:</strong>
 When it come to debugging code you never know when that obscure error you found a solution for after hours of scouring the internet will rear its ugly head again. Having a notebook or file where you store all that type of information will definitely come in handy and save you time in the future. You’ll also be at the ready with a quick solution if anyone else has the same issue.
 
-Remember in your programming class when your instructor talked about the importance of comments? It may have seemed a little redundant (...if my code is readable I shouldn't need comments right?) but when the complexity and number of people working on programs increases this become oh so important. Not to mention throw a bone to all those people down the road who may use some or all of your code once you’ve moved on (i.e. interns). Any time I see well documented code now I thank my lucky stars. Your algorithms and variable names may make sense to you but don’t count on everyone sharing your particularly unique brainwaves.
+Remember in your programming class when your instructor talked about the importance of comments? It may have seemed a little redundant (... if my code is readable I shouldn't need comments right?) but when the complexity and number of people working on programs increases this becomes oh so important. Not to mention throw a bone to all those people down the road who may use some or all of your code once you’ve moved on (i.e. interns). Any time I see well documented code now I thank my lucky stars. Your algorithms and variable names may make sense to you but don’t count on everyone sharing your particularly unique brainwaves.
 
 #### 2. Ask all the questions (don’t guess!)
 
@@ -30,7 +30,7 @@ If you don’t know something don’t pretend that you do. Ask for more clarific
 
 #### 3. Use your resources (I <3 Stackoverflow)
 
-Guaranteed wherever you are, especially with the internet in all of our pockets (hello smartphones), there is a wealth of knowledge surrounding you. Make use of it. Do some self study on your topic or task, talk to people who have worked in a similar area, exercise your Googling skills and never forget about Stackoverflow (<-- for the tech folks). Before asking questions it’s always a good idea to try to figure it out yourself (always remembering to double check your solution or at the very least back up the work before trying your solution just in case) that way when you do go to someone and ask a question it shows you’re not always relying on others to solve ever aspect of your problems.
+Guaranteed wherever you are, especially with the internet in all of our pockets (hello smartphones), there is a wealth of knowledge surrounding you. Make use of it. Do some self study on your topic or task, talk to people who have worked in a similar area, exercise your Googling skills and never forget about Stackoverflow (for the tech folks). Before asking questions it’s always a good idea to try to figure it out yourself (always remembering to double check your solution or at the very least back up the work before trying your solution just in case) that way when you do go to someone and ask a question it shows you’re not always relying on others to solve ever aspect of your problems.
 
 #### 4. Take the initiative/think outside the box
 
